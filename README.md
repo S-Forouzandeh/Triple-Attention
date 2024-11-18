@@ -39,11 +39,9 @@ Our framework introduces several innovative components:
    - Hierarchical global contrastive learning across views
    - Combined loss function with regularization
 
-
-
 ### Embedding Generation
-- First view embedding (Eq. 11)
-- Second view embedding (Eq. 12)
-- Combined embedding (Eq. 13)
+- First view embedding 
+- Second view embedding 
+- Combined embedding 
 
 
